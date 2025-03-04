@@ -1,0 +1,12 @@
+[package]
+name = "tm-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+charming = {version = "0.4.0", features = ["ssr"]}
+sysinfo = "0.33.1"
+resvg = "0.45.0"
+usvg = "0.45.0"
+image = "0.25.0"
+show-image = "0.14.1"
